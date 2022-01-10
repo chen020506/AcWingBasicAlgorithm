@@ -1,5 +1,5 @@
 // 时间：2022.1.10 22点05分 
-
+//朴素dijkstra算法
 #include<iostream>
 #include<cstring>
 #include<algorithm>
