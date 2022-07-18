@@ -1,4 +1,7 @@
 // 时间：2022.07.10 23点44分
+/*
+将多重背包经过2进制优化成01背包问题
+*/
 #include<iostream>
 #include<algorithm>
 using namespace std;
@@ -39,3 +42,4 @@ int main ()
     cout<<f[m]<<endl;
     return 0;
 }
+
