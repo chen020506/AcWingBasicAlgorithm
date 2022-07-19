@@ -1,6 +1,7 @@
 // 时间：2022.07.10 23点44分
 /*
 将多重背包经过2进制优化成01背包问题
+单调队列优化待写
 */
 #include<iostream>
 #include<algorithm>
